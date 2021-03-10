@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about <strong> Java , Web Development and Database Technology </strong><br>
 - 🌱 I’m currently learning <strong> React JS </strong><br>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/swapnil-patil11/" target="_blank">Swapnil Patil Linkedin</a><br>
-- 📫 How to reach me: <a href="http://www.hackerearth.com/@patilswapnil467" target="_blank">Swapnil Patil Hackerearth</a>
+- 📫 How to reach me: <a href="http://www.hackerearth.com/@patilswapnil467" target="_blank"> Hackerearth</a><br>
 - 📫 How to reach me: <a href="https://www.hackerrank.com/Swapnil_patil89?hr_r=1" target="_blank"> Hackerrank</a>
 
 <p align="center">
