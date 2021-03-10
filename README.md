@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/swapnil-patil11/" target="_blank"><img src="https://simpleicons.org/icons/linkedin.svg" height="30" width="30"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
     <a href="http://www.hackerearth.com/@patilswapnil467" target="_blank"><img src="https://simpleicons.org/icons/hackerearth.svg" height="30" width="30"></a>
   &nbsp;&nbsp;
    <a href="https://www.hackerrank.com/Swapnil_patil89?hr_r=1" target="_blank"><img src="https://simpleicons.org/icons/hackerrank.svg" height="30" width="30"></a>
