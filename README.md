@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center"> Hi there, I am Swapnil Patil 👋 </h1>
 - 💬 Ask me about <strong> Java , Web Development and Database Technology </strong><br>
 - 🌱 I’m currently learning <strong> React JS </strong><br>
-- 📫 How to reach me: <a href="www.linkedin.com/in/swapnil-patil11" target="_blank">Swapnil Patil</a><br>
+- 📫 How to reach me: <a href="www.linkedin.com/in/swapnil-patil11/" target="_blank">Swapnil Patil</a><br>
 - 📫 How to reach me: <a href="http://www.hackerearth.com/@patilswapnil467" target="_blank">Swapnil Patil</a>
 
 <p align="center">
