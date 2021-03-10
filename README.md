@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 -  📫 How to reach me: <a href="http://www.hackerearth.com/@patilswapnil467" target="_blank">Swapnil Patil</a>
 
 <p align="center">
-  <a href="www.linkedin.com/in/swapnil-patil11" target="_blank"><img src=https://simpleicons.org/icons/linkedin.svg" height="30" width="30"></a>
-    <a href="http://www.hackerearth.com/@patilswapnil467" target="_blank"><img src=https://simpleicons.org/icons/hackerearth.svg" height="30" width="30"></a>
+  <a href="www.linkedin.com/in/swapnil-patil11" target="_blank"><img src="https://simpleicons.org/icons/linkedin.svg" height="30" width="30"></a>
+    <a href="http://www.hackerearth.com/@patilswapnil467" target="_blank"><img src="https://simpleicons.org/icons/hackerearth.svg" height="30" width="30"></a>
     
     
     
